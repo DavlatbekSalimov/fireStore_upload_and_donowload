@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "247493016486",
+    "project_id": "up-and-download",
+    "storage_bucket": "up-and-download.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247493016486:android:c4e12bd52cae5fb9016d67",
+        "android_client_info": {
+          "package_name": "com.example.app_up_download"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvUXqfgUmsgOOqNEb-4QHD7kOs8cFY6P8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
